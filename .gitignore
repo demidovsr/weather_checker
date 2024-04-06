@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+# env
+
+secret.env
+node_modules/
+.idea/
+*.log
