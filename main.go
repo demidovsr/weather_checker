@@ -57,6 +57,6 @@ func main() {
 		return
 	}
 
-	fmt.Printf("Current wether in %s: %.2f°C\n", weatherData.Name, weatherData.Main.Temp)
+	fmt.Printf("Current weather in %s: %.2f°C\n", weatherData.Name, weatherData.Main.Temp)
 
 }
